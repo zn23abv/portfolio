@@ -1,7 +1,7 @@
 # portfolio
 
 ## About Me
-Hello! My name is Nouh Hasan, and I am a second-year computer science student specializing in cyber security and networks. I have a strong passion for technology and a keen interest in exploring various aspects of the field.
+Hello! My name is Nouh D H M Hasan, and I am a second-year computer science student specializing in cyber security and networks. I have a strong passion for technology and a keen interest in exploring various aspects of the field.
 
 ## Technical Interests
 As a computer science student, I am particularly fascinated by the following areas:
